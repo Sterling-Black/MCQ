@@ -56,9 +56,9 @@ header{
     /* margin-top: 0px; */
 }
 
-sup{
+/* sup{
     text-decoration: underline;
-}
+} */
 
 .questions{
     padding: 5px 20px;
@@ -161,7 +161,7 @@ input[name='ans'] + label{
     font-size: var(--h1-font-size);
 }
 
-.frac{
+/* .frac{
     position: relative;
     display: flex;
     flex-direction: column;
@@ -175,7 +175,7 @@ input[name='ans'] + label{
 }
 
 .numerator{
-    /* text-decoration: underline; */
+    text-decoration: underline;
     border-bottom: 1px solid black;
     font-size: calc(var(--normal-font-size)/1.3);
-}
+} */
